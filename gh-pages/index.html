@@ -1,0 +1,62 @@
+<HTML>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HEAD>
+<title>FNew - Home</title>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<base href="" target="_top" id="base">
+<script>base.href = document.location.href.replace("/media", "").replace("index.html", "").replace(/[&?]wrapper=False/, "").replace(/[&?]wrapper_nonce=[A-Za-z0-9]+/, "")</script>
+</HEAD>
+<BODY bgcolor="black" text="white" alink="lime" link="orange" vlink="orange"><CENTER>
+<DIV id="titlebar" bgcolor="black"><font color="purple">
+<hr>
+<H1>Welcome to <font color="orange">F</font><font color="pink">N</font><font color="lime">ew</font></H1>
+<hr>
+</font></div>
+<div align="right" id="navbar"><a href="./write">write</a> | <a href="./create">register a email adress</a> | <a href="./posts">read</a></div><br>
+<h2>About FNew</h2>
+FNew is a expirimental social media site with an 'everyone-can-write-and-read'-policy created by Marnix 0810.
+<br><a href="./getzclient">Help FNew and the Zeronet without spending money</a>
+
+<h2>About me</h2>
+I, Marnix 0810, am the owner of <a href="https://marnix0810.wordpress.com/" target="_blank">The Marnix 0810 Site</a>.<br> I am a hobby programmer and FNew is one of my creations.
+
+<h2>About zite</h2>
+<div id="out"></div>
+
+<script type="text/javascript" src="js/ZeroFrame.js"></script>
+
+<script>
+
+class Page extends ZeroFrame {
+	setSiteInfo(site_info) {
+		var out = document.getElementById("out")
+		out.innerHTML =
+			"Page address: " + site_info.address +
+			"<br>- Peers: " + site_info.peers +
+			"<br>- Size: " + site_info.settings.size +
+			"<br>- Modified: " + (new Date(site_info.content.modified*1000)) +
+			"<hr><h2>Share FNew!</h2>" +
+			"<br>For Zeronet users: <a href='http://127.0.0.1:43110/" + site_info.address + "'>http://127.0.0.1:43110/" + site_info.address + "</a>" +
+			"<br>Using proxy: <a href='http://bit.ly/FNew-social'>http://bit.ly/FNew-social</a>"
+	}
+
+	onOpenWebsocket() {
+		this.cmd("siteInfo", [], function(site_info) {
+			page.setSiteInfo(site_info)
+		})
+	}
+
+	onRequest(cmd, message) {
+		if (cmd == "setSiteInfo")
+			this.setSiteInfo(message.params)
+		else
+			this.log("Unknown incoming message:", cmd)
+	}
+}
+page = new Page()
+
+</script>
+</CENTER>
+</BODY>
+</HTML>
