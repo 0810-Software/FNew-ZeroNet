@@ -1,5 +1,5 @@
-An account on 
-# FNew
+This is an account on FNew
+[hr]
 
 [Back to FNew](../)
 
