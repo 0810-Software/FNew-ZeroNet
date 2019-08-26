@@ -1,1 +1,0 @@
-this folder will contain a page that enables people to write to FNew.
