@@ -11,92 +11,99 @@
 
   <url>
        <loc>https://marnix0810.github.io/FNew/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/links/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
+       <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/write/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/create/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/posts/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/desktop-apps/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/account/marnix0810.html</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.5120</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/Privacy/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
+       <priority>0.5120</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/account/</loc>
-       <lastmod>2019-09-08T19:00:47+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:36+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
+       <priority>0.5120</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/write/post/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/write/bio/</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/Privacy_2019-09-08_20.25.pdf</loc>
-       <lastmod>2019-09-09T15:27:00+00:00</lastmod>
+       <lastmod>2019-09-10T11:11:46+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/account/marnix0810</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/account/EhvNr01</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
   <url>
        <loc>https://marnix0810.github.io/FNew/account/marnix2813</loc>
-       <lastmod>2019-09-08T19:00:44+00:00</lastmod>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.4096</priority>
   </url>
+  <url>
+       <loc>https://marnix0810.github.io/FNew/account/Viv</loc>
+       <lastmod>2019-09-10T09:36:32+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+
 </urlset>
