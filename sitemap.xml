@@ -1,114 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-       <loc>https://marnix0810.github.io/FNew/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/links/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/write/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/create/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/posts/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/desktop-apps/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/posts/marnix0810_19829_1.html</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/posts/marnix0810-The_first_post_.html</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/Privacy/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/account/</loc>
-       <lastmod>2019-09-24T07:52:30+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/write/post/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/write/bio/</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/account/marnix0810.html</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/Privacy_2019-09-08_20.25.pdf</loc>
-       <lastmod>2019-09-25T17:59:30+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/account/marnix0810</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/account/EhvNr01</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://marnix0810.github.io/FNew/account/Viv</loc>
-       <lastmod>2019-09-24T07:52:27+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
-  </url>
+
+<url>
+  <loc>https://marnix0810.github.io/FNew/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/write/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/create/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/posts/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/links/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/write/post/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/write/bio/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/posts/marnix0810_19829_1.html</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/posts/marnix0810-The_first_post_.html</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/Privacy/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/account/</loc>
+  <lastmod>2019-10-25T16:58:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/desktop-apps/</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/account/marnix0810.html</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/Privacy-document.pdf</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/Privacy-presentation.pptx</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/account/marnix0810</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/account/EhvNr01</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://marnix0810.github.io/FNew/account/Viv</loc>
+  <lastmod>2019-10-25T16:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
