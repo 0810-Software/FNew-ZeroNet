@@ -1,0 +1,9 @@
+This file lists the urls on the links-page that refer to FNew.
+
+https://fnew-social.net/
+https://fnew-social.net/Privacy
+https://fnew-social.net/account
+https://fnew-social.net/write
+https://fnew-social.net/create
+https://fnew-social.net/posts
+https://fnew-social.net/desktop-apps/
